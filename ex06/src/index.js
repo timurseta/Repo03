@@ -20,6 +20,6 @@ function main(){
 }
 
 console.log(main());
-module.exports = main
+module.exports = main;
 
 
