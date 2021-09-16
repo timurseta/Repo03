@@ -5,7 +5,7 @@ function main(numOne, numTwo) {
 
     var sum;
 
-    sum = numOne + numTwo
+    sum = numOne + numTwo;
 
     // Only change code above this line
     return sum;
