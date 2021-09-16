@@ -4,8 +4,8 @@ function main () {
 
     var x;
     var y;
-    x = 10
-    y = x
+    x = 10;
+    y = x;
     
 
     //Only change code above this line

@@ -2,7 +2,7 @@ function main () {
 
     // Only change code below this line
 
-    var x = 8
+    var x = 8;
 
     // Only change code above this line
     return x;
@@ -10,4 +10,4 @@ function main () {
 }
 
 console.log(main());
-module.exports = main
+module.exports = main;
